@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+    font-size: 18px;
+    background-image: url("http://s1.favim.com/orig/150826/food-fruits-lemons-wallpaper-Favim.com-3186291.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align:center;
+}
+h1 {
+    text-align: center;
+    color: green;
+    font-family: Georgia;
+    -webkit-text-stroke: 2px magenta;
+  color: white;
+   text-shadow:
+       4px 4px 0 #000,
+     -2px -2px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+       border-bottom-style: solid;
+    border-color: black;
+       
+     
+}
+
+li {
+    display:inline;
+    padding:10px 10px;
+    list-style:none;
+}
+
+#background {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/11/92/5c/11925cc1cc1df1fd0303e5b9610f3700.gif");
+}
+
